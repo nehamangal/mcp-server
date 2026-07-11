@@ -99,7 +99,3 @@ Converts an amount from one currency to another.
 └── README.md
 ```
 
-
-## License
-
-[MIT](LICENSE)
